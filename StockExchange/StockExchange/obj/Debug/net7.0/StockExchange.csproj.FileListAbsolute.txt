@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\bin\Debug\net7.0\StockExchange.exe
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\bin\Debug\net7.0\StockExchange.deps.json
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\bin\Debug\net7.0\StockExchange.runtimeconfig.json
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\bin\Debug\net7.0\StockExchange.dll
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\bin\Debug\net7.0\StockExchange.pdb
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.AssemblyInfo.cs
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.dll
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\refint\StockExchange.dll
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.pdb
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\StockExchange.genruntimeconfig.cache
+C:\Users\Admin\Documents\Day11&12\StockExchange\StockExchange\obj\Debug\net7.0\ref\StockExchange.dll
