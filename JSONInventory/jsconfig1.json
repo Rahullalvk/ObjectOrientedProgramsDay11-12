@@ -1,0 +1,52 @@
+{
+  "TypesOfRice": [
+    {
+      "name": "Basmathi",
+      "weight": 4,
+      "price": 120
+    },
+    {
+      "name": "Bullet",
+      "weight": 3,
+      "price": 100
+    },
+    {
+      "name": "Rical",
+      "weight": 8,
+      "price": 80
+    }
+
+  ],
+  "TypesOfWheet": [
+    {
+      "name": "wheet1",
+      "weight": 3,
+      "price": 100
+    },
+    {
+      "name": "wheet2",
+      "weight": 4,
+      "price": 120
+    }
+
+
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "pulse1",
+      "weight": 4,
+      "price": 120
+    },
+    {
+      "name": "pulse2",
+      "weight": 3,
+      "price": 100
+    },
+    {
+      "name": "pulse3",
+      "weight": 8,
+      "price": 80
+    }
+
+  ]
+}

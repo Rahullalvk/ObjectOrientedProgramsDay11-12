@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.AssemblyInfo.cs
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\JSONInventory.exe
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\JSONInventory.deps.json
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\JSONInventory.runtimeconfig.json
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\JSONInventory.dll
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\JSONInventory.pdb
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.csproj.CopyComplete
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.dll
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\refint\JSONInventory.dll
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.pdb
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\JSONInventory.genruntimeconfig.cache
+C:\Users\Admin\Documents\Day11&12\JSONInventory\JSONInventory\obj\Debug\net7.0\ref\JSONInventory.dll
